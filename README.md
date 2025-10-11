@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Mermer</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Mobile Development , Web Development**
+- 🌱 I develop mobile applications and websites
 
 - 📫 How to reach me **yunusemremermer57@gmail.com**
 
